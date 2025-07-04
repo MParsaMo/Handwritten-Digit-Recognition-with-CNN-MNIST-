@@ -14,7 +14,7 @@ This project uses a **Convolutional Neural Network (CNN)** to classify handwritt
 
 Install dependencies with:
 
-```bash
+
 pip install -r requirements.txt
 
 ---
